@@ -58,16 +58,32 @@ Project:
    Uri: 'urn:FTOptix:NetLogic'
    Module: FTOptix.NetLogic
    Version: 4.0
+  15:
+   Uri: 'urn:FTOptix:RAEtherNetIP'
+   Module: FTOptix.RAEtherNetIP
+   Version: 7.0
+  16:
+   Uri: 'urn:FTOptix:RAEtherNetIP:Net'
+   Module: FTOptix.RAEtherNetIP.Net
+   Version: 3.2
+  17:
+   Uri: 'urn:FTOptix:CommunicationDriver'
+   Module: FTOptix.CommunicationDriver
+   Version: 3.0
+  18:
+   Uri: 'urn:FTOptix:CommunicationDriver:Net'
+   Module: FTOptix.CommunicationDriver.Net
+   Version: 4.0
  Statistics:
-  TotalNodeCount: 163
-  Objects: 81
+  TotalNodeCount: 226
+  Objects: 94
   ObjectTypes: 1
-  Variables: 80
+  Variables: 130
   VariableTypes: 0
   DataTypes: 0
   Methods: 1
-  References: 0
+  References: 6
   ReferenceTypes: 0
-  Files: 22
+  Files: 28
  Nodes:
  - File: Nodes/FactoryTalk_Optix_PC_Shutdown.yaml

@@ -9,6 +9,8 @@ using FTOptix.Retentivity;
 using FTOptix.CoreBase;
 using FTOptix.Core;
 using FTOptix.NetLogic;
+using FTOptix.RAEtherNetIP;
+using FTOptix.CommunicationDriver;
 #endregion
 
 public class RuntimeNetLogic1 : BaseNetLogic
